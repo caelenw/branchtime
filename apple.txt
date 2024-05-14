@@ -1,5 +1,13 @@
+<<<<<<< HEAD
 yummy yummy 
 
 i love the apple im eating 
 
 i love eating fruit!
+=======
+i love the apple im eating 
+
+Apples are disgusting!
+
+I only eat bananas
+>>>>>>> feature-b
